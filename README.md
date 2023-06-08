@@ -1,1 +1,1 @@
-# Methamphetamine-induced regional-specific transcriptomic and epigenetic changes in the brain of male rats![image](https://github.com/Zhang-lab/Rat_Brain_Meth/assets/36831678/5df26813-464f-427f-9ab7-1713e4fd2cf8)
+# Methamphetamine-induced regional-specific transcriptomic and epigenetic changes in the brain of male rats
