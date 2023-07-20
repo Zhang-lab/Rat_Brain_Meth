@@ -1,0 +1,31 @@
+Npas2	"Chromatin remodeling, TF"	TF activator	Chromatin remodeling	Chromatin remodeling
+Actr3b	Chromatin remodeling	#	Chromatin remodeling	Chromatin remodeling
+Gadd45g	Chromatin remodeling	#	Chromatin remodeling	Chromatin remodeling
+Dpf3	Chromatin remodeling	#	Chromatin remodeling	Chromatin remodeling
+Tle1	"Chromatin remodeling, Histone modification cofactor"	#	Chromatin remodeling	Chromatin remodeling
+Myo1c	Chromatin remodeling cofactor	#	Chromatin remodeling	Chromatin remodeling
+Top2a	Chromatin remodeling	#	Chromatin remodeling	Chromatin remodeling
+Satb2	Chromatin remodeling cofactor	#	Chromatin remodeling	Chromatin remodeling
+Satb1	Chromatin remodeling cofactor	#	Chromatin remodeling	Chromatin remodeling
+Dpf1	Chromatin remodeling cofactor	#	Chromatin remodeling	Chromatin remodeling
+Sfmbt2	"Histone modification read, Polycomb group (PcG) protein, TF"	TF repressor	Histone modification read	Histone modification read
+L3mbtl1	Histone modification read	#	Histone modification read	Histone modification read
+Smarca2	"Histone modification read, TF"	TF activator	Histone modification read	Histone modification read
+Cecr2	Histone modification read	#	Histone modification read	Histone modification read
+Tle2	Histone modification cofactor	#	Histone modification cofactor	Histone modification cofactor
+Hdac5	Histone modification erase	Histone acetylation	Histone modification erase: acetylation	Histone modification erase: acetylation
+Hdac11	Histone modification erase	Histone acetylation	Histone modification erase: acetylation	Histone modification erase: acetylation
+Zbtb16	Histone modification erase cofactor	Histone acetylation	Histone modification erase: acetylation	Histone modification erase: acetylation
+Trim16	Histone modification write	Histone acetylation	Histone modification write: acetylation	Histone modification write: acetylation
+Padi2	Histone modification	Histone citrullination	Histone modification: citrullination	Histone modification: citrullination
+Kdm7a	Histone modification erase	Histone methylation	Histone modification erase: methylation	Histone modification erase: methylation
+Prdm8	Histone modification write	Histone methylation	Histone modification write: methylation	Histone modification write: methylation
+Cit	"Histone modification write cofactor, Histone modification write cofactor"	"Histone methylation, Histone phosphorylation"	Histone modification write: methylation	Histone modification write: methylation
+Prkcb	Histone modification write	Histone methylation	Histone modification write: methylation	Histone modification write: methylation
+Prdm16	"Histone modification write cofactor, TF"	"Histone methylation, TF repressor"	Histone modification write: methylation	Histone modification write: methylation
+Cdk17	Histone modification write	Histone phosphorylation	Histone modification write: phosphorylation	Histone modification write: phosphorylation
+Rps6ka4	Histone modification write	Histone phosphorylation	Histone modification write: phosphorylation	Histone modification write: phosphorylation
+Prkca	Histone modification write cofactor	Histone phosphorylation	Histone modification write: phosphorylation	Histone modification write: phosphorylation
+Prkag2	Histone modification write cofactor	Histone phosphorylation	Histone modification write: phosphorylation	Histone modification write: phosphorylation
+Prkcd	Histone modification	Histone phosphorylation?	Histone modification write: phosphorylation	Histone modification write: phosphorylation
+Leo1	Histone modification write cofactor	Histone ubiquitination	Histone modification write: ubiquitination	Histone modification write: ubiquitination
