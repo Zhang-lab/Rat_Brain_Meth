@@ -1,0 +1,2 @@
+Category	Term	Count	%	PValue	Genes	List Total	Pop Hits	Pop Total	Fold Enrichment	Bonferroni	Benjamini	FDR
+GOTERM_BP_DIRECT	GO:1902476~chloride transmembrane transport	2	22.22222222222222	0.039017232378205875	CLCN4, CLCA4L	9	87	17535	44.78927203065134	0.6969822991800658	1.0	1.0
